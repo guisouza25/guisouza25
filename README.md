@@ -7,6 +7,6 @@ Would you like to find me?
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guisouza25&show_icons=true&theme=light&langs_count=8&layout=compact" alt="guisouza25" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=guisouza25&show_icons=true&theme=light&locale=en" alt="guisouza25 stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guisouza25&show_icons=true&theme=light&locale=en" alt="guisouza25 stats" /></p>
 
 
